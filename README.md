@@ -2,7 +2,6 @@
 - I’m interested in front-end development, I'm basically from a medical background
 - I’m currently learning javascript
 - How to reach me: reebayk05@gmail.com
-- Fun fact: I have launched a program named careerbloom codinghub CBC for non-techies where they can learn html and css
   
 
 <!---
