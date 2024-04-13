@@ -1,6 +1,6 @@
 - Hey, I’m reebayk
-- I’m interested in front-end development, I'm basically from a medical background
-- I’m currently learning javascript
+- I’m interested in full stack development, I'm basically from a premedical background
+- I’m currently learning C++
 - How to reach me: reebayk05@gmail.com
   
 
