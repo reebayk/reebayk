@@ -48,12 +48,6 @@ Passionate Full Stack Developer and Computer Science student at **Mohammad Ali J
 - Team leadership
 - Course operations
 
-### Community Manager — PreMed.PK
-**Feb 2024 – Mar 2025**
-- Community growth
-- Campaign management
-- Web testing
-
 ### CMS Developer Intern — ProByte (Pvt) Ltd.
 **Jul 2025 – Sep 2025**
 - WordPress development
