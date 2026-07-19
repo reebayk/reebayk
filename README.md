@@ -38,8 +38,6 @@ Passionate Full Stack Developer and Computer Science student at **Mohammad Ali J
 <img src="https://skillicons.dev/icons?i=wordpress"/>
 </p>
 
-**Also:** Shopify • SQL
-
 ## 💼 Experience
 
 ### Course Manager — PreMed.PK
@@ -82,11 +80,7 @@ Passionate Full Stack Developer and Computer Science student at **Mohammad Ali J
 
 ## 🐍 Contribution Snake
 
-```md
-Replace 'YOUR_USERNAME' below after enabling GitHub Actions:
-
 ![snake](https://github.com/reebayk/reebayk/blob/output/github-contribution-grid-snake.svg)
-```
 
 ## 🌐 Connect
 
