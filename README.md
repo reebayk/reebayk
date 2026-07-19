@@ -80,7 +80,7 @@ Passionate Full Stack Developer and Computer Science student at **Mohammad Ali J
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/reebayk/reebayk/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/reebayk/reebayk/blob/gh-pages/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect
 
