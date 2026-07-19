@@ -63,9 +63,47 @@ Passionate Full Stack Developer and Computer Science student at **Mohammad Ali J
 
 - Cisco Networking Academy — Industrial Networking Essentials (SAA)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-> 🚧 Coming Soon...
+<table>
+<tr>
+<td width="50%">
+
+### 🏨 Multithreaded Hotel Reservation System
+
+Thread-safe hotel reservation system built in **C** using **POSIX Threads**, demonstrating synchronization, race condition detection, overbooking prevention, and concurrency stress testing.
+
+<p>
+<a href="https://github.com/reebayk/multithreaded-hotel-reservation-system">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+**Tech Stack**
+
+`C` `POSIX Threads` `Linux` `Helgrind` `ThreadSanitizer`
+
+</td>
+
+<td width="50%">
+
+### 🌐 Secure Campus Network
+
+University campus network designed in **Cisco Packet Tracer** featuring **VLANs**, **802.1Q Trunking**, **Router-on-a-Stick**, and **ACL-based network security**.
+
+<p>
+<a href="https://github.com/reebayk/secure-campus-network">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+**Tech Stack**
+
+`Cisco Packet Tracer` `VLANs` `ACLs` `802.1Q` `Cisco IOS`
+
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Stats
 
